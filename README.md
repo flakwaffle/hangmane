@@ -1,0 +1,2 @@
+# hangmane
+hangman
